@@ -7,5 +7,6 @@ applications:
   instances: 1
   host: asrTomcatEjemploCloudant
   domain: eu-gb.mybluemix.net
+  buildpack: java_buildpack
   services:
   - asrDCBCloudantNoSQL
