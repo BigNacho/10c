@@ -9,6 +9,7 @@
 <body>
 <h1>Ejemplo de Proyecto de ASR con Cloudant ahora con DevOps Nacho Style lml.</h1>
 <hr />
+<h2>Práctica 10c</h2>
 <p> Opciones <b>CLOUDANT en IBM Cloud awww yeeeahh</b>:</p>
 <ul>
 <li><a href="listar">Listar</a></li>
