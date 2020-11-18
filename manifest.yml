@@ -5,7 +5,7 @@ applications:
   path: target/asrTomcatEjemploCloudant.war
   memory: 640M
   instances: 1
-  host: asrTomcatEjemploCloudant
+  host: asrTomcatEjemploCloudant201502215
   domain: eu-gb.mybluemix.net
   #Buildpack de Tomcat 
   buildpack: java_buildpack
